@@ -1,0 +1,255 @@
+[
+    {
+        "key": "group_63e83ce69f15f",
+        "title": "Vcards Information",
+        "fields": [
+            {
+                "key": "field_63e83ce739983",
+                "label": "Full Name",
+                "name": "name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e87c0c58b3b",
+                "label": "Nickname",
+                "name": "nickname",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e83cf439984",
+                "label": "No Phone",
+                "name": "phone",
+                "aria-label": "",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "min": "",
+                "max": "",
+                "placeholder": "",
+                "step": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e8490b4b155",
+                "label": "Email",
+                "name": "email",
+                "aria-label": "",
+                "type": "email",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e848d64b153",
+                "label": "Position",
+                "name": "title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e848c64b152",
+                "label": "Company Name",
+                "name": "company_name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Hit Digital Marketing Sdn Bhd",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63e848f94b154",
+                "label": "Work Address",
+                "name": "work_address",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "Seksyen 17, PT 532, Tingkat 1 Rumah Kedai Lembah Sireh, Jalan Jambatan Sultan Yahya Petra, 15050 Kota Bharu, Kelantan",
+                "maxlength": "",
+                "rows": 2,
+                "placeholder": "",
+                "new_lines": ""
+            },
+            {
+                "key": "field_63e849114b156",
+                "label": "Website",
+                "name": "website",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "https:\/\/hitdigital.my",
+                "placeholder": ""
+            },
+            {
+                "key": "field_63e849784b15a",
+                "label": "About",
+                "name": "notes",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "rows": "",
+                "placeholder": "",
+                "new_lines": ""
+            },
+            {
+                "key": "field_63e849414b157",
+                "label": "Facebook Url",
+                "name": "facebook",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "https:\/\/www.facebook.com\/hitdigitalsdnbhd",
+                "placeholder": ""
+            },
+            {
+                "key": "field_63e849584b158",
+                "label": "Instagram URL",
+                "name": "instagram",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": ""
+            },
+            {
+                "key": "field_63e849664b159",
+                "label": "Youtube URL",
+                "name": "youtube",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "https:\/\/www.youtube.com\/c\/HitDigitalMarketingAgency\/featured",
+                "placeholder": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "vcard"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "All information will be add in phone",
+        "show_in_rest": 0
+    }
+]
